@@ -1,0 +1,15 @@
+purpose,total_loans,avg_loan_amount
+house,532,16065.0
+small_business,1201,15766.0
+debt_consolidation,57988,15248.0
+credit_card,21991,14844.0
+home_improvement,6479,14271.0
+major_purchase,2211,11808.0
+wedding,166,10780.0
+other,5727,9817.0
+medical,1170,8909.0
+car,1077,8824.0
+renewable_energy,70,8271.0
+educational,26,7941.0
+moving,689,7493.0
+vacation,673,5992.0

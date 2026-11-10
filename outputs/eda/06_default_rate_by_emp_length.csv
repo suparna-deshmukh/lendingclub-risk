@@ -1,0 +1,6 @@
+emp_bucket,total_loans,defaults,default_rate_pct
+0–1 year,14706,3033.0,20.62
+1–3 years,17161,3421.0,19.93
+3–5 years,12059,2328.0,19.31
+5+ years,50277,9620.0,19.13
+Unknown,5797,1563.0,26.96
